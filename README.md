@@ -1,6 +1,8 @@
 # Bring the humans with a TikTok ad — bring-the-humans-03
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty%20bring--the--humans--03-c41c83)](https://make.fun/bounty/bring-the-humans-03)
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/hitomiinaraa/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/hitomiinaraa/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![TikTok](https://img.shields.io/badge/TikTok-vertical%20ad%209%3A16-black)](https://www.tiktok.com/@hitomi.fun/video/7710992455776226578)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -79,3 +81,7 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 It prints nothing on success.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=8em0aqg8&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
